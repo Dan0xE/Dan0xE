@@ -1,7 +1,7 @@
 ## Hello 👋, i'm Dan
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=danisbored101&label=Profile%20views&color=0e75b6&style=flat" alt="danisbored" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=danisbored" alt="danisbored" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dan0xe101&label=Profile%20views&color=0e75b6&style=flat" alt="danisbored" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dan0xe" alt="danisbored" /></a> </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -113,9 +113,9 @@
 
 
 ## GitHub Statistics
-[![Danisbored's GitHub Stats](https://github-readme-stats.vercel.app/api?username=danisbored&show_icons=true&theme=radical)](https://github.com/danisbored?tab=overview)
+[![Dann0xE's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dan0xe&show_icons=true&theme=radical)](https://github.com/dan0xe?tab=overview)
 <br>
 <a href="https://github.com/dansisbored?tab=overview">
-<img align="center" alt="Dan's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danisbored&layout=compact&langs_count=9&theme=radical"/>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danisbored&theme=radical" alt="More Danisbored stats" /></p>
+<img align="center" alt="Dan's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dan0xe&layout=compact&langs_count=9&theme=radical"/>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dan0xe&theme=radical" alt="More Danisbored stats" /></p>
 </a>
