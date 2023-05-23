@@ -1,4 +1,4 @@
-## Hello 👋, i'm Dan
+## Hello 👋, I'm Dan
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dan0xe101&label=Profile%20views&color=0e75b6&style=flat" alt="danisbored" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dan0xe" alt="danisbored" /></a> </p>
